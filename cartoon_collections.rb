@@ -27,5 +27,3 @@ def find_the_cheese(snacks)
   end 
   nil 
 end
-
-find_the_cheese(calls)
