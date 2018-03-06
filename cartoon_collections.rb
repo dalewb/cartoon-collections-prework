@@ -8,6 +8,8 @@ def summon_captain_planet(calls)
   calls.collect {|el| el.capitalize << "!"
 end
 
+summon_captain_planet(calls)
+
 def long_planeteer_calls# code an argument here
   # Your code here
 end
