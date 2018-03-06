@@ -25,4 +25,7 @@ def find_the_cheese(snacks)
       return snack 
     end 
   end 
+  nil 
 end
+
+find_the_cheese(calls)
